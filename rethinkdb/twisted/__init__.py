@@ -1,3 +1,4 @@
+# Copyright 2014 Anton Schur
 
 import logging
 import struct
